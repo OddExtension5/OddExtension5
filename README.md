@@ -64,7 +64,7 @@
              <td  align = "center"><img src="https://img.icons8.com/fluent/24/000000/database.png"/>
              <br>Big Data</td>
              <td  align = "center"><img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" width=80 height=30/><br>Apache Spark</td>
-             <td  align = "center"><img src="https://lh3.googleusercontent.com/proxy/-fiN1qry-BCiFcXQOcrEM5H8YgUQCmlojVi2ZYqtNwThUM-l00b_Zu6HgL_JfuiYPsCqg5qd0zau5FB_0Jqm12d_ePENtLU" width=90 height=50/>
+             <td  align = "center"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Apache_kafka.svg" width=90 height=50/>
              <br>Apache Kafka</td>
              <td  align = "center"><img src="http://linkredglue.com/wp-content/uploads/Cassandra-300x201.png" width=80 height=30/><br>Apache Cassandra</td>
          </tr>
