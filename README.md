@@ -95,16 +95,9 @@
 
 <details>
     <summary align="center"><strong>Repositories You May Like</strong></summary></br>
-   
-   <a href="https://github.com/OddExtension5/AWS-Resources">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=oddextension5&repo=AWS-Resources" />
-</a>
+
 <a href="https://github.com/OddExtension5/repo-search-app">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=oddextension5&repo=repo-search-app" />
-</a>
-
-   <a href="https://github.com/OddExtension5/NLP-AFS">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=oddextension5&repo=NLP-AFS" />
 </a>
 <a href="https://github.com/OddExtension5/Analyzing-Baseball-Statistics">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=oddextension5&repo=Analyzing-Baseball-Statistics" />
