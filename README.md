@@ -7,7 +7,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=OddExtension5&show_icons=true&hide_border=false&text_color=641e16&icon_color=145a32&bg_color=eaecee&title_color=ee0bf5" alt="Profile Stats"/><br>
 </p>
 
-<details align="center">
+<details align="center" open="open">
     <summary align="center"><strong>Programming Languages:</strong></summary>
      <table align="center">
          <tr align="center">
@@ -30,7 +30,7 @@
          </tr>
      </table>
         </details>
- <details align="center">
+ <details align="center" open="open">
     <summary align="center"><strong>Tools and Technologies:</strong></summary>
      <table align="center">
          <tr align="center">
@@ -80,7 +80,7 @@
      </table>
         </details>
         
-<details align="center">
+<details align="center" open="open">
     <summary align="center"><strong>Contact:</strong></summary>
      <table align="center">
          <tr align="center">
