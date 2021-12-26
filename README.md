@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <p align="center">
-    <strong>I am a student at Government College of Engineering and Textile Technology, Berhampore with a concentration in Computer Science and Engineering. In my current academic, I focus on the in-and-out of computers and their related technologies. I am particularly interested in the role that data, automation, and security play in expanding and improvising the technologies. I also have a growing interest in Statistics, Econometric, Blockchain, Quantum Computing, and the ways in which Data Science can be harnessed for humanity. </strong><br><br></p>
+    <strong>Hello there !! I am particularly interested in the role that data, automation, and security play in expanding and improvising the technologies. I also have a growing interest in Statistics, Econometric, Blockchain, Quantum Computing, and the ways in which Data Science can be harnessed for humanity. </strong><br><br></p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=OddExtension5&show_icons=true&hide_border=false&text_color=641e16&icon_color=145a32&bg_color=eaecee&title_color=ee0bf5" alt="Profile Stats"/><br>
