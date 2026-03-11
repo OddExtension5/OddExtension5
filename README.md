@@ -32,7 +32,7 @@
 ```python
 class OddExtension5:
     def __init__(self):
-        self.name        = "OddExtension5"
+        self.name        = "Sushil Singh"
         self.role        = "Data · Automation · Security"
         self.languages   = ["Python", "Java", "Kotlin", "R",
                             "C", "C++", "C#", "Solidity", "SQL"]
